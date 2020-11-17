@@ -1,11 +1,8 @@
 ### Hi there!
 
 - I'm currently studying CS at Carleton University 🖥️
-
 - Am part owner and developer of [J@E Design Co.](https://github.com/JE-Design) 🌲
-
 - Spend my time developing full stack javascript apps 🐢
-
 - And currently delving into dev-ops ⛏️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
