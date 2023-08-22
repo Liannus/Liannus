@@ -1,9 +1,9 @@
 ### Hi there!
 
-- I'm just finished the final year of my Bachelor's at Carleton University 🖥️
-- Am part owner and developer of [J@E Design Co.](https://github.com/JE-Design) 🌲
-- Spend my time developing full stack javascript apps 🐢
-- And currently delving into dev-ops ⛏️
+- Engineer at TD Bank 🖥️
+- Part owner and developer of [J@E Design Co.](https://github.com/JE-Design) 🌲
+- Spend my free time developing full stack MERN apps 🐢
+- Experienced in Linux and Dev-Ops in Hybrid Cloud environments ⛏️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liannus&layout=compact&theme=solarized-dark" />
